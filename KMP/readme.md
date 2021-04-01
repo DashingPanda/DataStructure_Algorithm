@@ -10,4 +10,6 @@ next[k]的意义是在模式串的k角标之前的匹配的前后缀串的长度
 而p[0-(j-1)]的这个串里面存在多对前后缀串；
 详细分析可以结合图片理解：
 ![avatar](https://github.com/DashingPanda/DataStructure_Algorithm/blob/main/KMP/images/KMP1.png)
+
+模式串和母串匹配过程的理解看下面视频：
 [![Watch the video](https://github.com/DashingPanda/DataStructure_Algorithm/blob/main/KMP/images/KMP2.png)](https://pan.baidu.com/play/video#/video?path=%2F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E8%A7%86%E9%A2%91%2FKMP%2FTo_Understand_KMP.mp4&t=-1)
