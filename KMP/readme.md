@@ -11,6 +11,10 @@ next[k]的意义是在模式串的k角标之前的匹配的前后缀串的长度
 详细分析可以结合图片理解：
 ![avatar](https://github.com/DashingPanda/DataStructure_Algorithm/blob/main/KMP/images/KMP1.png)
 
+***
+* * *
+*****
+- - -
 ---------
       
 ## 模式串和母串匹配过程的理解看下面视频：    
